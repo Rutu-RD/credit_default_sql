@@ -1,11 +1,9 @@
 # credit_default_sql
 
 # Queries achieved
---Query 1 This query selects the name, credit rating, credit limit, and transaction amount of customers with a credit rating of 1 and a credit limit of at least 10000.  
-
---Query 2 This query groups the transactions by customer and calculates the total amount spent by each customer.  
-
---Query 3 This query orders the transactions by amount in descending order.  
+#--Query 1 This query selects the name, credit rating, credit limit, and transaction amount of customers with a credit rating of 1 and a credit limit of at least 10000.  
+#--Query 2 This query groups the transactions by customer and calculates the total amount spent by each customer.  
+#--Query 3 This query orders the transactions by amount in descending order.  
 
 --Query 4 This query selects the name and amount of the customer who made the largest transaction.  
 
